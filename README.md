@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- Mateus Souza.
+- Estou cursando bacharelado em Ciência da computação 2/8
+- Formado em tecníco em informática.
+- Formado em logíca de programação pelo SENAC.
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mateus-sant-ana-de-souza-380543382)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateussantana.121819@gmail.com)
 <!--
 **MateusSantAnaSouza/MateusSantAnaSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
