@@ -1,7 +1,7 @@
 ## Hi There
 
 - Mateus Souza.
-- Estou cursando bacharelado em Ciência da computação 2/8
+- Estou cursando bacharelado em Ciência da computação 2/8.
 - Formado em tecníco em informática.
 - Formado em logíca de programação pelo SENAC.
   
